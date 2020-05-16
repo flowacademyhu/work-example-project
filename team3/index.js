@@ -1,4 +1,5 @@
 // adding comment123
+// Daniel's comment after Gyuri's comment
 
 const sum = (a, b) => {
   return a + b;
